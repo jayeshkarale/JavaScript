@@ -1,17 +1,10 @@
-// Function in JS
-function greet(){   // parameter
-    console.log("Hello..");
-}
-
-greet(); // argument
-
 // Types of User-Defined Functions in JS
 
 // a. Without Parameters and Return Type.
-function SayHello(){
+function SayHello(){ // parameter
     console.log("Hello World...");
 }
-SayHello();
+SayHello(); // argument
 
 // b. With Parameters but not with return type
 function m1(name){
