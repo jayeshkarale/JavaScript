@@ -26,4 +26,9 @@
     3. Arrow Function
     4. Function in Function
     5. Anonymous Functions
-    
+        1. rest parameters
+        2. default parameters
+
+5. Array
+    1. Array Create
+    2. Array Methods
