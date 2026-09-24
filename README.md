@@ -32,3 +32,19 @@
 5. Array
     1. Array Create
     2. Array Methods
+    3. Array Methods1
+    4. Array Objects
+
+6. Strings
+    1. Create Strings
+    2. String Methods
+
+7. Objects
+    1. Create Objects
+    2. Runtime Update
+    3. Spread
+    4. Students Example
+    5. Comapany Example
+
+8. DOM (Document Object Model)
+    1. Dom
